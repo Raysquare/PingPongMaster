@@ -94,47 +94,13 @@
 
 #### UI 菜单截图
 
-左：主菜单	右：快速测试
-
-<img src="RMPic/pic3.png" alt="pic3" style="width:50%;float:left" /><img src="RMPic/pic4.png" alt="pic3" style="width:50%;float:right" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-左：自定义测试	右: 自定义测试的教程视频
-
-<img src="RMPic/pic5.png" alt="pic3" style="width:50%;float:left" /><img src="RMPic/pic6.png" alt="pic3" style="width:50%;float:right" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+主菜单          |  快速测试
+:-------------------------:|:-------------------------:
+![](RMPic/pic3.png)  |  ![](RMPic/pic4.png)
+:-------------------------:|:-------------------------:
+自定义测试 |  自定义测试的教程视频
+:-------------------------:|:-------------------------:
+![](RMPic/pic5.png)  |  ![](RMPic/pic6.png)
 
 
 
