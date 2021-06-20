@@ -80,6 +80,9 @@
 
 <img src="RMPic/Jun-20-2021 14-11-29.gif" alt="pic3" style="width:100%" />
 
+### VR支持
+除了投影、显示屏的显示输出，我们还增加了 VR 设备的支持
+<img src="RMPic/Jun-20-2021 14-20-00.gif" alt="pic3" style="width:100%" />
 
 
 ### UI部分
