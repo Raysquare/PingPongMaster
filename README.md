@@ -2,7 +2,7 @@
 
 基于 Kinect 动作捕捉 & Unity 平台开发的虚拟仿真训练系统
 
-<img src="RMPic/pic1.png" alt="pic1" style="zoom:33%;" />
+<img src="RMPic/firstpic.png" alt="pic1" style="zoom:33%;" />
 
 
 
