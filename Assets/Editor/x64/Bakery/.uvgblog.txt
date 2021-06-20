@@ -1,0 +1,1983 @@
+2019-10-26
+Rendering UV GBuffer for SampleScene_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA1.lz4" 2 0 1 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_0" 4 0 0
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1461420451_0" 4 0 0
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_1" 4 0 1
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1461420451_1" 4 0 1
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_1" 4 0 1
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1" 4 0 1
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 1 "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 1 "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 1 "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 1 "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_final" 4 16 0 "SampleScene_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_final" 4 16 1 "SampleScene_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "SampleScene_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LM0_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA1_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA1_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1" "SampleScene_LMA1_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA1_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA1_final.hdr"
+2019-10-26
+Rendering UV GBuffer for SampleScene_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA14 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA13 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA12 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA11 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA10 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA9 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA15 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA8 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA16 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA2.lz4" 2 0 13 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA8.lz4" 2 0 8 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA6.lz4" 2 0 9 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA9.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA16.lz4" 2 0 16 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA3.lz4" 2 0 12 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA11.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA4.lz4" 2 0 11 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA14.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA7.lz4" 2 0 15 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA12.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA13.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA15.lz4" 2 0 7 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA10.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA5.lz4" 2 0 10 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA1.lz4" 2 0 14 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_13" 4 0 13
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_13" 4 0 13
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_13" 4 0 13
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA2" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_8" 4 0 8
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_8" 4 0 8
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_8" 4 0 8
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_9" 4 0 9
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_9" 4 0 9
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_9" 4 0 9
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA6" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_6" 4 0 6
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_6" 4 0 6
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_6" 4 0 6
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA9" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_16" 4 0 16
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_16" 4 0 16
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_16" 4 0 16
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_12" 4 0 12
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_12" 4 0 12
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_12" 4 0 12
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA3" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_4" 4 0 4
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_4" 4 0 4
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_4" 4 0 4
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA11" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_11" 4 0 11
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_11" 4 0 11
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_11" 4 0 11
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA4" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_1" 4 0 1
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_1" 4 0 1
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_1" 4 0 1
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA14" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_15" 4 0 15
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_15" 4 0 15
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_15" 4 0 15
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA7" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_3" 4 0 3
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_3" 4 0 3
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_3" 4 0 3
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA12" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_2" 4 0 2
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_2" 4 0 2
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_2" 4 0 2
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA13" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_7" 4 0 7
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_7" 4 0 7
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_7" 4 0 7
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA15" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_5" 4 0 5
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_5" 4 0 5
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_5" 4 0 5
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA10" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_0" 4 0 0
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_0" 4 0 0
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_10" 4 0 10
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_10" 4 0 10
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_10" 4 0 10
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA5" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_14" 4 0 14
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_14" 4 0 14
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_14" 4 0 14
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1" 4 0 14
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA2_diffuse" 4 16 13 "SampleScene_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA8_diffuse" 4 16 8 "SampleScene_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA6_diffuse" 4 16 9 "SampleScene_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA9_diffuse" 4 16 6 "SampleScene_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA16_diffuse" 4 16 16 "SampleScene_LMA16_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA3_diffuse" 4 16 12 "SampleScene_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA11_diffuse" 4 16 4 "SampleScene_LMA11_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA4_diffuse" 4 16 11 "SampleScene_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA14_diffuse" 4 16 1 "SampleScene_LMA14_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA7_diffuse" 4 16 15 "SampleScene_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA12_diffuse" 4 16 3 "SampleScene_LMA12_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA13_diffuse" 4 16 2 "SampleScene_LMA13_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA15_diffuse" 4 16 7 "SampleScene_LMA15_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA10_diffuse" 4 16 5 "SampleScene_LMA10_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA5_diffuse" 4 16 10 "SampleScene_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 14 "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA2_diffuse" 4 16 13 "SampleScene_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA8_diffuse" 4 16 8 "SampleScene_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA6_diffuse" 4 16 9 "SampleScene_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA9_diffuse" 4 16 6 "SampleScene_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA16_diffuse" 4 16 16 "SampleScene_LMA16_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA3_diffuse" 4 16 12 "SampleScene_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA11_diffuse" 4 16 4 "SampleScene_LMA11_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA4_diffuse" 4 16 11 "SampleScene_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA14_diffuse" 4 16 1 "SampleScene_LMA14_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA7_diffuse" 4 16 15 "SampleScene_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA12_diffuse" 4 16 3 "SampleScene_LMA12_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA13_diffuse" 4 16 2 "SampleScene_LMA13_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA15_diffuse" 4 16 7 "SampleScene_LMA15_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA10_diffuse" 4 16 5 "SampleScene_LMA10_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA5_diffuse" 4 16 10 "SampleScene_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 14 "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA2_diffuse" 4 16 13 "SampleScene_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA8_diffuse" 4 16 8 "SampleScene_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA6_diffuse" 4 16 9 "SampleScene_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA9_diffuse" 4 16 6 "SampleScene_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA16_diffuse" 4 16 16 "SampleScene_LMA16_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA3_diffuse" 4 16 12 "SampleScene_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA11_diffuse" 4 16 4 "SampleScene_LMA11_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA4_diffuse" 4 16 11 "SampleScene_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA14_diffuse" 4 16 1 "SampleScene_LMA14_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA7_diffuse" 4 16 15 "SampleScene_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA12_diffuse" 4 16 3 "SampleScene_LMA12_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA13_diffuse" 4 16 2 "SampleScene_LMA13_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA15_diffuse" 4 16 7 "SampleScene_LMA15_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA10_diffuse" 4 16 5 "SampleScene_LMA10_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA5_diffuse" 4 16 10 "SampleScene_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 14 "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA2_diffuse" 4 16 13 "SampleScene_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA8_diffuse" 4 16 8 "SampleScene_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA6_diffuse" 4 16 9 "SampleScene_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA9_diffuse" 4 16 6 "SampleScene_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA16_diffuse" 4 16 16 "SampleScene_LMA16_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA3_diffuse" 4 16 12 "SampleScene_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA11_diffuse" 4 16 4 "SampleScene_LMA11_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA4_diffuse" 4 16 11 "SampleScene_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA14_diffuse" 4 16 1 "SampleScene_LMA14_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA7_diffuse" 4 16 15 "SampleScene_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA12_diffuse" 4 16 3 "SampleScene_LMA12_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA13_diffuse" 4 16 2 "SampleScene_LMA13_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA15_diffuse" 4 16 7 "SampleScene_LMA15_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA10_diffuse" 4 16 5 "SampleScene_LMA10_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA5_diffuse" 4 16 10 "SampleScene_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 14 "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA2_final" 4 16 13 "SampleScene_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA8_final" 4 16 8 "SampleScene_LMA8_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA6_final" 4 16 9 "SampleScene_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA9_final" 4 16 6 "SampleScene_LMA9_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA16_final" 4 16 16 "SampleScene_LMA16_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA3_final" 4 16 12 "SampleScene_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA11_final" 4 16 4 "SampleScene_LMA11_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA4_final" 4 16 11 "SampleScene_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA14_final" 4 16 1 "SampleScene_LMA14_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA7_final" 4 16 15 "SampleScene_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA12_final" 4 16 3 "SampleScene_LMA12_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA13_final" 4 16 2 "SampleScene_LMA13_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA15_final" 4 16 7 "SampleScene_LMA15_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA10_final" 4 16 5 "SampleScene_LMA10_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_final" 4 16 0 "SampleScene_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA5_final" 4 16 10 "SampleScene_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_final" 4 16 14 "SampleScene_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA2_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "13" "SampleScene_LMA2_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA2_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA2_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA8_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA8_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "8" "SampleScene_LMA8_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA8_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA8_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA6_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA6_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "9" "SampleScene_LMA6_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA6_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA6_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA9_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA9_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "6" "SampleScene_LMA9_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA9_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA9_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA16_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA16_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "16" "SampleScene_LMA16_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA16_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA16_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA3_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "12" "SampleScene_LMA3_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA3_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA3_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA11_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA11_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "4" "SampleScene_LMA11_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA11_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA11_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA4_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "11" "SampleScene_LMA4_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA4_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA4_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA14_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA14_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1" "SampleScene_LMA14_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA14_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA14_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA7_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA7_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "15" "SampleScene_LMA7_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA7_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA7_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA12_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA12_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "3" "SampleScene_LMA12_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA12_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA12_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA13_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA13_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "2" "SampleScene_LMA13_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA13_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA13_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA15_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA15_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "7" "SampleScene_LMA15_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA15_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA15_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA10_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA10_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "5" "SampleScene_LMA10_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA10_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA10_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "SampleScene_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LM0_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA5_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA5_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "10" "SampleScene_LMA5_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA5_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA5_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA1_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "14" "SampleScene_LMA1_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA1_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA1_final.hdr"
+2019-11-4
+Rendering UV GBuffer for SampleScene_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA14 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA13 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA12 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA11 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA10 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA9 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA15 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA8 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA16 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA8.lz4" 2 0 8 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA6.lz4" 2 0 9 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA9.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA16.lz4" 2 0 16 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA2.lz4" 2 0 13 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA3.lz4" 2 0 12 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA7.lz4" 2 0 15 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA11.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA4.lz4" 2 0 11 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA14.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA10.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA12.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA13.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA15.lz4" 2 0 7 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA5.lz4" 2 0 10 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA1.lz4" 2 0 14 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_8" 4 0 8
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_8" 4 0 8
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_8" 4 0 8
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA8" 4 0 8
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_9" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_9" 4 0 9
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_9" 4 0 9
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_9" 4 0 9
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA6" 4 0 9
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_6" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_6" 4 0 6
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_6" 4 0 6
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_6" 4 0 6
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA9" 4 0 6
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_16" 4 0 16
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_16" 4 0 16
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_16" 4 0 16
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA16" 4 0 16
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_13" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_13" 4 0 13
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_13" 4 0 13
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_13" 4 0 13
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA2" 4 0 13
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_12" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_12" 4 0 12
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_12" 4 0 12
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_12" 4 0 12
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA3" 4 0 12
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_15" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_15" 4 0 15
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_15" 4 0 15
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_15" 4 0 15
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA7" 4 0 15
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_4" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_4" 4 0 4
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_4" 4 0 4
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_4" 4 0 4
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA11" 4 0 4
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_11" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_11" 4 0 11
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_11" 4 0 11
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_11" 4 0 11
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA4" 4 0 11
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_1" 4 0 1
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_1" 4 0 1
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_1" 4 0 1
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA14" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_5" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_5" 4 0 5
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_5" 4 0 5
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_5" 4 0 5
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA10" 4 0 5
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_3" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_3" 4 0 3
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_3" 4 0 3
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_3" 4 0 3
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA12" 4 0 3
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_2" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_2" 4 0 2
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_2" 4 0 2
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_2" 4 0 2
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA13" 4 0 2
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_7" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_7" 4 0 7
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_7" 4 0 7
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_7" 4 0 7
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA15" 4 0 7
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_0" 4 0 0
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_0" 4 0 0
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0" 4 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_10" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_10" 4 0 10
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_10" 4 0 10
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_10" 4 0 10
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA5" 4 0 10
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_775043008_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-189507390_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_196299217_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-239746907_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-92320531_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1058654452_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1513863075_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-47019926_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_728371268_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1270850568_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_383434238_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1281236793_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694061991_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1551178680_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1897727682_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1523468267_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_403872704_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1694267124_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1754506532_14" 4 0 14
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_751224149_14" 4 0 14
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1927150336_14" 4 0 14
+Running ftrace sun "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-1752294215_14" 4 0 14
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1" 4 0 14
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA8_diffuse" 4 16 8 "SampleScene_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA6_diffuse" 4 16 9 "SampleScene_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA9_diffuse" 4 16 6 "SampleScene_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA16_diffuse" 4 16 16 "SampleScene_LMA16_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA2_diffuse" 4 16 13 "SampleScene_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA3_diffuse" 4 16 12 "SampleScene_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA7_diffuse" 4 16 15 "SampleScene_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA11_diffuse" 4 16 4 "SampleScene_LMA11_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA4_diffuse" 4 16 11 "SampleScene_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA14_diffuse" 4 16 1 "SampleScene_LMA14_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA10_diffuse" 4 16 5 "SampleScene_LMA10_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA12_diffuse" 4 16 3 "SampleScene_LMA12_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA13_diffuse" 4 16 2 "SampleScene_LMA13_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA15_diffuse" 4 16 7 "SampleScene_LMA15_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA5_diffuse" 4 16 10 "SampleScene_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 14 "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA8_diffuse" 4 16 8 "SampleScene_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA6_diffuse" 4 16 9 "SampleScene_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA9_diffuse" 4 16 6 "SampleScene_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA16_diffuse" 4 16 16 "SampleScene_LMA16_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA2_diffuse" 4 16 13 "SampleScene_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA3_diffuse" 4 16 12 "SampleScene_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA7_diffuse" 4 16 15 "SampleScene_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA11_diffuse" 4 16 4 "SampleScene_LMA11_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA4_diffuse" 4 16 11 "SampleScene_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA14_diffuse" 4 16 1 "SampleScene_LMA14_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA10_diffuse" 4 16 5 "SampleScene_LMA10_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA12_diffuse" 4 16 3 "SampleScene_LMA12_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA13_diffuse" 4 16 2 "SampleScene_LMA13_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA15_diffuse" 4 16 7 "SampleScene_LMA15_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA5_diffuse" 4 16 10 "SampleScene_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 14 "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA8_diffuse" 4 16 8 "SampleScene_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA6_diffuse" 4 16 9 "SampleScene_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA9_diffuse" 4 16 6 "SampleScene_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA16_diffuse" 4 16 16 "SampleScene_LMA16_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA2_diffuse" 4 16 13 "SampleScene_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA3_diffuse" 4 16 12 "SampleScene_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA7_diffuse" 4 16 15 "SampleScene_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA11_diffuse" 4 16 4 "SampleScene_LMA11_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA4_diffuse" 4 16 11 "SampleScene_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA14_diffuse" 4 16 1 "SampleScene_LMA14_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA10_diffuse" 4 16 5 "SampleScene_LMA10_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA12_diffuse" 4 16 3 "SampleScene_LMA12_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA13_diffuse" 4 16 2 "SampleScene_LMA13_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA15_diffuse" 4 16 7 "SampleScene_LMA15_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA5_diffuse" 4 16 10 "SampleScene_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 14 "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA8_diffuse" 4 16 8 "SampleScene_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA6_diffuse" 4 16 9 "SampleScene_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA9_diffuse" 4 16 6 "SampleScene_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA16_diffuse" 4 16 16 "SampleScene_LMA16_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA2_diffuse" 4 16 13 "SampleScene_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA3_diffuse" 4 16 12 "SampleScene_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA7_diffuse" 4 16 15 "SampleScene_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA11_diffuse" 4 16 4 "SampleScene_LMA11_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA4_diffuse" 4 16 11 "SampleScene_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA14_diffuse" 4 16 1 "SampleScene_LMA14_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA10_diffuse" 4 16 5 "SampleScene_LMA10_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA12_diffuse" 4 16 3 "SampleScene_LMA12_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA13_diffuse" 4 16 2 "SampleScene_LMA13_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA15_diffuse" 4 16 7 "SampleScene_LMA15_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA5_diffuse" 4 16 10 "SampleScene_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 14 "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA8_final" 4 16 8 "SampleScene_LMA8_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA6_final" 4 16 9 "SampleScene_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA9_final" 4 16 6 "SampleScene_LMA9_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA16_final" 4 16 16 "SampleScene_LMA16_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA2_final" 4 16 13 "SampleScene_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA3_final" 4 16 12 "SampleScene_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA7_final" 4 16 15 "SampleScene_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA11_final" 4 16 4 "SampleScene_LMA11_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA4_final" 4 16 11 "SampleScene_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA14_final" 4 16 1 "SampleScene_LMA14_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA10_final" 4 16 5 "SampleScene_LMA10_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA12_final" 4 16 3 "SampleScene_LMA12_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA13_final" 4 16 2 "SampleScene_LMA13_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA15_final" 4 16 7 "SampleScene_LMA15_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LM0_final" 4 16 0 "SampleScene_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA5_final" 4 16 10 "SampleScene_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "SampleScene_LMA1_final" 4 16 14 "SampleScene_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA8_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA8_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "8" "SampleScene_LMA8_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA8_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA8_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA6_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA6_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "9" "SampleScene_LMA6_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA6_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA6_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA9_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA9_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "6" "SampleScene_LMA9_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA9_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA9_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA16_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA16_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "16" "SampleScene_LMA16_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA16_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA16_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA2_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "13" "SampleScene_LMA2_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA2_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA2_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA3_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "12" "SampleScene_LMA3_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA3_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA3_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA7_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA7_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "15" "SampleScene_LMA7_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA7_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA7_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA11_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA11_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "4" "SampleScene_LMA11_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA11_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA11_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA4_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "11" "SampleScene_LMA4_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA4_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA4_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA14_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA14_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1" "SampleScene_LMA14_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA14_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA14_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA10_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA10_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "5" "SampleScene_LMA10_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA10_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA10_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA12_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA12_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "3" "SampleScene_LMA12_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA12_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA12_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA13_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA13_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "2" "SampleScene_LMA13_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA13_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA13_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA15_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA15_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "7" "SampleScene_LMA15_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA15_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA15_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "SampleScene_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LM0_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA5_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA5_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "10" "SampleScene_LMA5_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA5_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA5_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA1_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "14" "SampleScene_LMA1_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/SampleScene_LMA1_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/SampleScene_LMA1_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for 1_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1251600558_1" 4 0 1
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LMA1" 4 0 1
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_1251600558_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LMA1_diffuse" 4 16 1 "1_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LMA1_diffuse" 4 16 1 "1_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LMA1_diffuse" 4 16 1 "1_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LMA1_diffuse" 4 16 1 "1_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LMA1_final" 4 16 1 "1_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LMA1_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LMA1_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1" "1_LMA1_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LMA1_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LMA1_final.hdr"
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_61622225_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-477578188_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-477578188_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-477578188_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace sky "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-477578188_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for 1_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "uvpos_1_LM0.lz4" 2 0 0 0
+Running ftrace pointlight "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "light_-527528971_0" 4 0 0
+Running ftrace addmul "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0" 4 0 0
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_diffuse" 4 16 0 "1_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "1_LM0_final" 4 16 0 "1_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender" "0" "1_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\ADMINI~1.USE\AppData\Local\Temp\frender/1_LM0_final_HDR.lz4" "E:/unity3d_XIANGMU/tiyuchang/Assets/BakeryLightmaps/1_LM0_final.hdr"

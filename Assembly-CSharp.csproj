@@ -1,0 +1,1144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{f0c126a1-45c8-bc54-0941-8c94b2ae9c1f}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>.</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_4;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;UNITY_ANALYTICS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_OSX;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_SPATIALTRACKING;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CROSS_PLATFORM_INPUT;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoConfig>true</NoConfig>
+    <NoStdLib>true</NoStdLib>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
+    <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
+  </PropertyGroup>
+  <ItemGroup>
+     <Compile Include="Assets\PostProcessing\Runtime\Components\FxaaComponent.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\UI Element\HorizontalSelector.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\MultiScene\LoadFirstLevel.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\SimpleBackgroundRemoval.cs" />
+     <Compile Include="Assets\Scripts\LeftHandSetting.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Filters\JointVelocitiesFilter.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\PointCloudView.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\OverlayDemo\Scripts\PhotoBoothController.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\KinectManager.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\CameraRollFixer.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\MouseControl.cs" />
+     <Compile Include="Assets\RockVR\Common\Scripts\Process.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\GetFacePointsDemo.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\CloudFaceScripts\FaceObjs\FacialHair.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\BackgroundRemovalDemo\Scripts\WebcamSource.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\VariousDemos\Scripts\PoseDetectorScript.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\VariousDemos\Scripts\KinectAudioTracker.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\ModelSelector.cs" />
+     <Compile Include="Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Buttons\QuickMatchButton.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\SpeechRecognitionDemo\Scripts\ThirdPersonCamera.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\GesturesDemo\Scripts\ModelPresentationScript.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\InteractionDemo\Scripts\GrabDropScript.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\OverlayDemo\Scripts\SkeletonOverlayer.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Interfaces\Kinect2UwpInterface.cs" />
+     <Compile Include="Assets\Scripts\VRLook\sp.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+     <Compile Include="Assets\Scripts\menu\VirtualInputModule.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\ChromaticAberrationComponent.cs" />
+     <Compile Include="Assets\RockVR\Common\Scripts\Platform.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\BackgroundColorImage.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\BuiltinDebugViewsComponent.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Interfaces\DummyK2Interface.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\BlobDetectionDemo\Scripts\CollisionLogger.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\CloudFaceScripts\FaceObjs\FaceRectangle.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Attributes\TrackballGroupAttribute.cs" />
+     <Compile Include="Assets\Scripts\ColorSourceManager.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Utils\ColorGradingCurve.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FaceTrackingDemo\Scripts\SetFaceTexture.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\CloudFaceScripts\FaceObjs\HeadPose.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\PostProcessingBehaviour.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\EyeAdaptationModel.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Utils\GraphicsUtils.cs" />
+     <Compile Include="Assets\Scripts\menu\WaitUI.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Other\ExitToSystem.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\UI Manager\UIManagerParticle.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\SpeechRecognitionDemo\Scripts\BotControlScript.cs" />
+     <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\VignetteComponent.cs" />
+     <Compile Include="Assets\RockVR\Common\Scripts\Singleton.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\FogModel.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\TaaComponent.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Buttons\SettingsButton.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\ScreenSpaceReflectionComponent.cs" />
+     <Compile Include="Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\CloudFaceScripts\FaceObjs\FaceAttributes.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\MovieSequenceDemo\Scripts\UserMovieSequence.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\CloudFaceScripts\CloudFaceDetector.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\UI Manager\UIManagerText.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\VignetteModel.cs" />
+     <Compile Include="Assets\RockVR\Common\Scripts\EventDelegate.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\OverlayDemo\Scripts\PhotoShooter.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ProjectorDemo\Scripts\SkeletonProjection.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\RecorderDemo\Scripts\KinectPlayerController.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\GrainModel.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ColliderDemo\Scripts\DepthImageViewer.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\VariousDemos\Scripts\PoseModelHelperClassic.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\PostProcessingModel.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Interfaces\NuitrackInterface.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Interfaces\Kinect2Interface.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\MocapAnimatorDemo\Scripts\MocapPlayer.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\MultiScene\LoadLevelWhenUserDetected.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\GesturesDemo\Scripts\ModelGestureListener.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\JointPositionView.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FaceTrackingDemo\Scripts\SetBackgroundRemovalImage.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\K2SensorChecker.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\UI Manager\UIManager.cs" />
+     <Compile Include="Assets\Scripts\menu\PlayerRotation.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\PostProcessingProfile.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FaceTrackingDemo\Scripts\ViewFaceProperties.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\UI Manager\UIManagerGameLogo.cs" />
+     <Compile Include="Assets\Scripts\RandomBallShooter.cs" />
+     <Compile Include="Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\VariousDemos\Scripts\SimpleHolographicCamera.cs" />
+     <Compile Include="Assets\Scripts\menu\MenuController.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Event\TimedEvent.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\HeadMover.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\MultiScene\LoadLevelWhenNoUser.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\GrainComponent.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\OverlayDemo\Scripts\HandOverlayer.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ProjectorDemo\Scripts\ProjectorCamera.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\GetJointPositionDemo.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\InteractionDemo\Scripts\GrabRotateScript.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Input\VirtualCursorAnimate.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Buttons\MainPanelButton.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\BlobDetectionDemo\Scripts\BlobDetector.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\CloudFaceScripts\CloudFaceManager.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\InteractionManager.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Panel\SplashScreenManager.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Interfaces\Kinect1Interface.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Buttons\ChapterButton.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\PostProcessingContext.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Filters\BoneOrientationsConstraint.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\MotionBlurComponent.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\SpeechManager.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\VisualizerDemo\Scripts\UserHandVisualizer.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\SimplePoseListener.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Interfaces\OrbbecAstraMapper.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Utilities\AsyncTask.cs" />
+     <Compile Include="Assets\Scripts\ScoreDisplay.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\JointOrientationView.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ProjectorDemo\Scripts\RoomAliveToolkit\UnityUtilities.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\AvatarController.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Panel\MainPanelManager.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\UserLutModel.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\CloudFaceScripts\FaceObjs\FeatureCoordinate.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\AvatarControllerClassic.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\SimpleVisualGestureListener.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\BloomComponent.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\FacetrackingManager.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\PhysicsDemo\Scripts\BallController.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\KinectDataServer.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\MultiScene\LocateAvatarsAndGestureListeners.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ColliderDemo\Scripts\SkeletonCollider.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ColliderDemo\Scripts\BallMover.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\MotionBlurModel.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\KinectInterop.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Buttons\ShortcutButton.cs" />
+     <Compile Include="Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Interfaces\DepthSensorInterface.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Panel\ModalWindowManager.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ColliderDemo\Scripts\HandColorOverlayer.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\InteractionInputModule.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\MultiScene\LoadLevelWithDelay.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\UI Element\CustomInputField.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\BackgroundDepthImage.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\GesturesDemo\Scripts\CubePresentationScript.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Fix\UIElementInFront.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\BackgroundRemovalManager.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\SequentialGestureListener.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Event\HoldKeyEvent.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\CloudFaceScripts\FaceObjs\Face.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\BackgroundRemovalDemo\Scripts\ForegroundToImage.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ColliderDemo\Scripts\EggMover.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\KinectRecorderPlayer.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\UserLutComponent.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Input\VirtualCursor.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\AvatarsDemo\Scripts\UserAvatarMatcher.cs" />
+     <Compile Include="Assets\RockVR\Video\Scripts\Screenshot.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\SimpleInteractionListener.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\CloudFaceScripts\CloudWebTools.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\GesturesDemo\Scripts\CubeGestureListener.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\InteractionDemo\Scripts\GuiWindowScript.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\PortraitBackground.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\KinectDataClient.cs" />
+     <Compile Include="Assets\Scripts\menu\RandomMenu.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\SimpleGestureListener.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\UserBodyBlender.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\VisualizerDemo\Scripts\UserHeadCamera.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Interfaces\OrbbecAstraInterface.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\OverlayDemo\Scripts\JointOverlayer.cs" />
+     <Compile Include="Assets\Scripts\menu\TimingStart.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Other\LaunchURL.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\UI Manager\UIManagerBGMusic.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\UI Element\SwitchManager.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\GetFaceSmileStatus.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Buttons\SpotlightButton.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\RaiseHandListener.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FaceTrackingDemo\Scripts\SetBackgroundImage.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Event\PointerEnterEvents.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\AvatarScaler.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ProjectorDemo\Scripts\RoomAliveToolkit\Matrix.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\BackgroundRemovalDemo\Scripts\UserPlaneMover.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\AmbientOcclusionModel.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Cubeman\CubemanController.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\RecorderDemo\Scripts\PlayerDetectorController.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\DitheringComponent.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Event\PressKeyEvent.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\BuiltinDebugViewsModel.cs" />
+     <Compile Include="Assets\Scripts\shooterControl.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\PostProcessingComponent.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Other\CanvasManager.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Fix\LayoutGroupPositionFix.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\BackgroundRemovalDemo\Scripts\ForegroundToRawImage.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ColliderDemo\Scripts\BallSpawner.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Interfaces\Nuitrack\NuitrackFaceInfo.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Rendering\UIParticleRenderer.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Cubeman\PointmanController.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\UI Manager\UIManagerBackground.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\VisualGestureManager.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\VisualizerDemo\Scripts\SceneMeshVisualizer.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\KinectGestures.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Rendering\GradientEffect.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Input\GamepadChecker.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\CategorySelector.cs" />
+     <Compile Include="Assets\Scripts\BallShooter.cs" />
+     <Compile Include="Assets\RockVR\Video\Scripts\AudioCapture.cs" />
+     <Compile Include="Assets\Scripts\menu\ResultMenu.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\BodySlicer.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\EyeAdaptationComponent.cs" />
+     <Compile Include="Assets\RockVR\Common\Scripts\FPSDisplay.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\ChromaticAberrationModel.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\BlobDetectionDemo\Scripts\Blob.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\ColorGradingModel.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Buttons\FavoriteButton.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Input\ScrollGamepadManager.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\VisualizerDemo\Scripts\UserMeshVisualizer.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\ScreenSpaceReflectionModel.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\DepthOfFieldComponent.cs" />
+     <Compile Include="Assets\Scripts\Model\autoData.cs" />
+     <Compile Include="Assets\Scripts\PPBall.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\BackgroundRemovalDemo\Scripts\PlaneJointOverlayer.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\OverlayDemo\Scripts\LinePainter.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FaceTrackingDemo\Scripts\BlendShapeFaceController.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ColliderDemo\Scripts\EggSpawner.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\ColorGradingComponent.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\OverlayController.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Panel\FriendsPanelManager.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\AvatarsDemo\Scripts\OffsetNodeMover.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Interfaces\Nuitrack\NuitrackLoader.cs" />
+     <Compile Include="Assets\RockVR\Video\Scripts\Config.cs" />
+     <Compile Include="Assets\Scripts\Model\autoDataList.cs" />
+     <Compile Include="Assets\Scripts\menu\CustomMenu.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\CloudFaceScripts\FaceObjs\ClientError.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\VisualizerDemo\Scripts\MousePointOverlayer.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Scripts\CloudFaceScripts\FaceObjs\FaceLandmarks.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\BackgroundRemovalDemo\Scripts\ForegroundToRenderer.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\VariousDemos\Scripts\HeightEstimator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ColliderDemo\Scripts\JumpTrigger.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\FogComponent.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\SpeechErrorHandler.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\BloomModel.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
+     <Compile Include="Assets\RockVR\Video\Scripts\VideoCapture.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
+     <Compile Include="Assets\RockVR\Video\Scripts\Utils\Utils.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\DepthOfFieldModel.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FaceTrackingDemo\Scripts\FacePointOverlayer.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Components\AmbientOcclusionComponent.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ProjectorDemo\Scripts\RoomAliveToolkit\ProjectorCameraEnsemble.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\UI Manager\UIManagerImage.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\MocapAnimatorDemo\Scripts\MocapRecorder.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\FaceTrackingDemo\Scripts\ModelHatController.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Rendering\BlurManager.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Other\ScrollForMore.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Other\QualityManager.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\AvatarsDemo\Scripts\CameraPitchCorrector.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\VariousDemos\Scripts\HandObjectChecker.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\ForegroundBlender.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Filters\JointPositionsFilter.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Panel\MainPanelButtonParent.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\SpeechRecognitionDemo\Scripts\GameControlScript.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\VariousDemos\Scripts\PoseModelHelper.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\AntialiasingModel.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Input\SliderGamepadManager.cs" />
+     <Compile Include="Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs" />
+     <Compile Include="Assets\RockVR\Video\Scripts\VideoPlayer.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+     <Compile Include="Assets\Scripts\KinectVideo.cs" />
+     <Compile Include="Assets\K2Examples\KinectScripts\Samples\FollowUserRotation.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Panel\ServerBrowserManager.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\UI Element\SliderManager.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\UI Element\UIElementSound.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\ColliderDemo\Scripts\DepthSpriteViewer.cs" />
+     <Compile Include="Assets\Shift - Complete Sci-Fi UI\Scripts\Buttons\MainButton.cs" />
+     <Compile Include="Assets\K2Examples\KinectDemos\PhysicsDemo\Scripts\BarrelTrigger.cs" />
+     <Compile Include="Assets\PostProcessing\Runtime\Models\DitheringModel.cs" />
+     <None Include="Assets\RockVR\Video\Shaders\Cubemap2Equirectangular.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\GrainGen.shader" />
+     <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\FXAA3.cginc" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
+     <None Include="Assets\PostProcessing\Utilities\CustomMotionTexture\Shaders\CustomMotionVectorTexture.shader" />
+     <None Include="Assets\PostProcessing\Editor Resources\UI\CurveBackground.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
+     <None Include="Assets\Shift - Complete Sci-Fi UI\Shaders\Masked UI Blur.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.cginc" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\LutGen.shader" />
+     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
+     <None Include="Assets\K2Examples\Plugins\UWP\Attribution.txt" />
+     <None Include="Assets\K2Examples\Resources\Dilate.shader" />
+     <None Include="Assets\K2Examples\_Readme\致盗版使用者-ToPiracyUsers.txt" />
+     <None Include="Assets\K2Examples\Resources\Body2DepthShaderNN.shader" />
+     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
+     <None Include="Assets\K2Examples\Resources\DepthShader.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+     <None Include="Assets\K2Examples\Resources\BlurShader3.shader" />
+     <None Include="Assets\K2Examples\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\TAA.cginc" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
+     <None Include="Assets\K2Examples\Resources\Color2BodyShader.shader" />
+     <None Include="Assets\PostProcessing\Editor Resources\Monitors\VectorscopeCompute.compute" />
+     <None Include="Assets\K2Examples\Resources\CoordMapper.compute" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\JsonDotNet\link.xml" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
+     <None Include="Assets\K2Examples\Resources\BlurShader1.shader" />
+     <None Include="Assets\Shift - Complete Sci-Fi UI\Shaders\Fast UI Blur.shader" />
+     <None Include="Assets\Sci_fi_Drones\Read me.txt" />
+     <None Include="Assets\RockVR\Video\Shaders\CopyReverse.shader" />
+     <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramRender.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\UberSecondPass.cginc" />
+     <None Include="Assets\K2Examples\Resources\Depth2ColorShaderNN.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+     <None Include="Assets\Shift - Complete Sci-Fi UI\Shaders\UI Particle Additive.shader" />
+     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <None Include="Assets\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+     <None Include="Assets\Shift - Complete Sci-Fi UI\Read Me.txt" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\ACES.cginc" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
+     <None Include="Assets\RockVR\Video\Shaders\Stereoscopic.shader" />
+     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
+     <None Include="Assets\RockVR\Video\Shaders\CubemapDisplayPro.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\FXAA.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+     <None Include="Assets\K2Examples\KinectDemos\FittingRoomDemo\Resources\Shaders\UserBlendShader.shader" />
+     <None Include="Assets\K2Examples\Plugins\Android\Assets\OSIG_Readme.txt" />
+     <None Include="Assets\K2Examples\KinectDemos\VisualizerDemo\Shaders\HoloTriangles.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\ScreenSpaceRaytrace.cginc" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+     <None Include="Assets\K2Examples\Resources\Body2DepthShaderInvNN.shader" />
+     <None Include="Assets\RockVR\Video\Shaders\Cubemap2EquirectangularPro.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\Tonemapping.cginc" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\Fog.shader" />
+     <None Include="Assets\PostProcessing\Editor Resources\Monitors\ParadeRender.shader" />
+     <None Include="Assets\K2Examples\Resources\DepthHistImageShader.shader" />
+     <None Include="Assets\K2Examples\KinectDemos\RecorderDemo\Resources\PlayerGrammar.grxml.txt" />
+     <None Include="Assets\K2Examples\Resources\Color2BodyShaderNN.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.shader" />
+     <None Include="Assets\RockVR\Video\Shaders\CubemapToCylindrical.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\DiskKernels.cginc" />
+     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <None Include="Assets\PostProcessing\Resources\Bluenoise64\COPYING.txt" />
+     <None Include="Assets\RockVR\Video\Shaders\DownsamplePro.shader" />
+     <None Include="Assets\PostProcessing\Editor Resources\UI\Trackball.shader" />
+     <None Include="Assets\K2Examples\Resources\ForegroundBlendShader.shader" />
+     <None Include="Assets\K2Examples\Resources\BodyShader.shader" />
+     <None Include="Assets\PostProcessing\Editor Resources\Monitors\WaveformRender.shader" />
+     <None Include="Assets\K2Examples\KinectDemos\ProjectorDemo\Scripts\RoomAliveToolkit\Attribution.txt" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\Common.cginc" />
+     <None Include="Assets\K2Examples\KinectDemos\ProjectorDemo\Resources\calibration-empty.xml" />
+     <None Include="Assets\PostProcessing\Editor Resources\Monitors\VectorscopeRender.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\Bloom.shader" />
+     <None Include="Assets\K2Examples\KinectDemos\VisualizerDemo\Attribution.txt" />
+     <None Include="Assets\K2Examples\Resources\Body2DepthShaderInv.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\Uber.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
+     <None Include="Assets\K2Examples\Resources\Depth2BodyShaderNN.shader" />
+     <None Include="Assets\K2Examples\Resources\SpeechGrammar.grxml.txt" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\TAA.shader" />
+     <None Include="Assets\K2Examples\Resources\Depth2ColorShader.shader" />
+     <None Include="Assets\K2Examples\Resources\BlurShader.shader" />
+     <None Include="Assets\K2Examples\Resources\Body2ColorShader.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\Blit.shader" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\Bloom.cginc" />
+     <None Include="Assets\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
+     <None Include="Assets\K2Examples\Resources\BlurShader4.shader" />
+     <None Include="Assets\RockVR\Video\Shaders\FlippingTexture.shader" />
+     <None Include="Assets\K2Examples\Resources\BlurShader2.shader" />
+     <None Include="Assets\K2Examples\Resources\AstraSpaceMapper.compute" />
+     <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.cginc" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+     <None Include="Assets\K2Examples\Resources\Body2ColorShaderInv.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+     <None Include="Assets\Shift - Complete Sci-Fi UI\Shaders\UI Blur.shader" />
+     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+     <None Include="Assets\K2Examples\Resources\BlurShader5.shader" />
+     <None Include="Assets\K2Examples\Resources\Body2DepthShader.shader" />
+     <None Include="Assets\K2Examples\KinectDemos\ProjectorDemo\Resources\calibration.xml" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+     <None Include="Assets\K2Examples\Resources\AstraCoordMapper.compute" />
+     <None Include="Assets\K2Examples\Resources\Erode.shader" />
+     <None Include="Assets\K2Examples\Resources\Gradient.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
+     <None Include="Assets\K2Examples\Resources\MedianShader.shader" />
+    <Reference Include="UnityEngine">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AIModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ARModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ARModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AccessibilityModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AndroidJNIModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClothModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CrashReportingModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DSPGraphModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.DirectorModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GIModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.GIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GameCenterModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.GameCenterModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GridModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.GridModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HotReloadModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.HotReloadModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.InputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.LocalizationModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.LocalizationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PerformanceReportingModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.Physics2DModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ProfilerModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ProfilerModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SharedInternalsModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteMaskModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteShapeModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StreamingModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.StreamingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubstanceModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SubstanceModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubsystemsModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TLSModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TLSModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TerrainModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainPhysicsModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TextCoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TilemapModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TilemapModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UIElementsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsNativeModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UIElementsNativeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UNETModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UNETModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UmbraModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UmbraModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityConnectModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityCurlModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityTestProtocolModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VFXModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VFXModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VRModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VehiclesModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VehiclesModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VideoModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VideoModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VirtualTexturingModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.WindModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.WindModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XRModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.CoreModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.GraphViewModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.GraphViewModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.PackageManagerUIModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.PackageManagerUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.SceneTemplateModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UIElementsModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UIElementsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UIElementsSamplesModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UIServiceModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UIServiceModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UnityConnectModule">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/PackageCache/com.unity.analytics@3.5.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="LZ4Sharp">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Assets/K2Examples/KinectScripts/LZ4Sharp/LZ4Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="nuitrack.net">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Assets/K2Examples/KinectScripts/Interfaces/Nuitrack/nuitrack.net.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/PackageCache/com.unity.analytics@3.5.3/Unity.Analytics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Kinect2UnityWrapper">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Assets/K2Examples/Plugins/Kinect2UnityWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/PackageCache/com.unity.analytics@3.5.3/Unity.Analytics.Tracker.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="netstandard">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Primitives">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/Microsoft.Win32.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.AppContext">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.AppContext.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Concurrent">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.Concurrent.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.NonGeneric">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.NonGeneric.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Specialized">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.Specialized.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.EventBasedAsync">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Primitives">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.TypeConverter">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.TypeConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Console">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Console.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.Common">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Data.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Contracts">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Debug">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Debug.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.FileVersionInfo">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Process">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Process.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.StackTrace">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.StackTrace.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TextWriterTraceListener">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tools">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Tools.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TraceSource">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.TraceSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tracing">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Tracing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Primitives">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Drawing.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Dynamic.Runtime">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Dynamic.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Calendars">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.Calendars.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Extensions">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.ZipFile">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Compression.ZipFile.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Compression.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.DriveInfo">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Watcher">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.Watcher.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.IsolatedStorage">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.IsolatedStorage.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.MemoryMappedFiles">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.MemoryMappedFiles.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipes">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Pipes.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.UnmanagedMemoryStream">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Expressions">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Expressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Parallel">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Parallel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Queryable">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Queryable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.NameResolution">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.NameResolution.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.NetworkInformation">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.NetworkInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Ping">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Ping.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Primitives">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Requests">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Requests.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Security">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Sockets">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Sockets.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebHeaderCollection">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebHeaderCollection.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebSockets.Client">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebSockets.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebSockets">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebSockets.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ObjectModel">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.ObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Extensions">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Primitives">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.Reader">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.Reader.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.ResourceManager">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.ResourceManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.Writer">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.Writer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.VisualC">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Extensions">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Handles">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Handles.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.InteropServices.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Numerics">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Json">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Primitives">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Xml">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Claims">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Claims.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Csp">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Csp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Principal.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.SecureString">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.SecureString.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding.Extensions">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Text.Encoding.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Text.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.RegularExpressions">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Text.RegularExpressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Overlapped">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Overlapped.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Parallel">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Tasks.Parallel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Thread">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Thread.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.ThreadPool">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.ThreadPool.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Timer">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Timer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.ReaderWriter">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.ReaderWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XDocument">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath.XDocument">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XPath.XDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XPath.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlDocument">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XmlDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlSerializer">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XmlSerializer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.WindowsRuntime">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.ComponentModel.Composition.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.IO.Compression.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Runtime.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.Web">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.ServiceModel.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Transactions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Serialization">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+        <HintPath>/Applications/Unity/Hub/Editor/2020.3.4f1c1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Advertisements">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Analytics">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpatialTracking">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.XR.LegacyInputHelpers">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Monetization">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.SpatialTracking">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Advertisements.Editor">
+        <HintPath>/Users/arui/Downloads/Assignment2 _ unity source/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{b8dc3822-3c48-ea8a-a74e-d4df675f187e}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
+    <ProjectReference Include="BakeryEditorAssembly.csproj">
+      <Project>{1d18a313-ec01-fd1f-f755-89c66e6f5dc2}</Project>
+      <Name>BakeryEditorAssembly</Name>
+    </ProjectReference>
+    <ProjectReference Include="BakeryRuntimeAssembly.csproj">
+      <Project>{642f0314-594c-10ad-8682-9c001f35f71c}</Project>
+      <Name>BakeryRuntimeAssembly</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
